@@ -1,8 +1,0 @@
-D:\dotnetcoreRC3cli\bin\Debug\netcoreapp1.0\dotnetcoreRC3cli.deps.json
-D:\dotnetcoreRC3cli\bin\Debug\netcoreapp1.0\dotnetcoreRC3cli.runtimeconfig.json
-D:\dotnetcoreRC3cli\bin\Debug\netcoreapp1.0\dotnetcoreRC3cli.runtimeconfig.dev.json
-D:\dotnetcoreRC3cli\bin\Debug\netcoreapp1.0\dotnetcoreRC3cli.dll
-D:\dotnetcoreRC3cli\bin\Debug\netcoreapp1.0\dotnetcoreRC3cli.pdb
-D:\dotnetcoreRC3cli\obj\Debug\netcoreapp1.0\dotnetcoreRC3cli.AssemblyInfo.cs
-D:\dotnetcoreRC3cli\obj\Debug\netcoreapp1.0\dotnetcoreRC3cli.dll
-D:\dotnetcoreRC3cli\obj\Debug\netcoreapp1.0\dotnetcoreRC3cli.pdb

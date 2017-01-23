@@ -1,6 +1,0 @@
-D:\dotnetcoreRC3cli\library\bin\Debug\netstandard1.4\library.deps.json
-D:\dotnetcoreRC3cli\library\bin\Debug\netstandard1.4\library.dll
-D:\dotnetcoreRC3cli\library\bin\Debug\netstandard1.4\library.pdb
-D:\dotnetcoreRC3cli\library\obj\Debug\netstandard1.4\library.AssemblyInfo.cs
-D:\dotnetcoreRC3cli\library\obj\Debug\netstandard1.4\library.dll
-D:\dotnetcoreRC3cli\library\obj\Debug\netstandard1.4\library.pdb
