@@ -49,10 +49,7 @@ namespace MvcApp
 
             app.UseStaticFiles();
 			            
-			app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync(ClassLibrary.Class1.returnStr());
-            });
+			ClassLibrary.Class1.returnStr();
 
             app.UseMvc(routes =>
             {
